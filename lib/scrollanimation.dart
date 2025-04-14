@@ -1,0 +1,1 @@
+export 'src/scroll_animation.dart';
