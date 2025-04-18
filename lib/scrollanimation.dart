@@ -1,1 +1,1 @@
-export 'src/scroll_animation.dart';
+export 'src/scroll_animation_widget.dart';
