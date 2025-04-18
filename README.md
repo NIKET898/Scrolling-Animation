@@ -23,7 +23,7 @@ This package provides customizable scroll animations with ease, focusing on smoo
   # Demos
 
   <p float="left">
-    <img src="https://github.com/NIKET898/Scrolling-Animation/blob/main/assets/demo_video.gif" width="200" height="350"/>
+    <img src="https://github.com/NIKET898/Scrolling-Animation/blob/main/assets/demo_video.mp4" width="200" height="350"/>
   </p>
 
 ## Basic Usage
